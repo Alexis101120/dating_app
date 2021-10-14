@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-685420579/android.connectivity_plus.iml" filepath="$PROJECT_DIR$/.idea/modules/-685420579/android.connectivity_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-841638130/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/-841638130/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1105450835/android.fluttertoast.iml" filepath="$PROJECT_DIR$/.idea/modules/1105450835/android.fluttertoast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1196527780/android.image_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1196527780/android.image_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1792909323/android.multi_image_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1792909323/android.multi_image_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1490217105/android.nb_utils.iml" filepath="$PROJECT_DIR$/.idea/modules/-1490217105/android.nb_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1769279289/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-1769279289/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1286804959/android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/1286804959/android.shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1859877719/android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/1859877719/android.sqflite.iml" />
+    </modules>
+  </component>
+</project>
